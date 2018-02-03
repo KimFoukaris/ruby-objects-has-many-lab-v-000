@@ -7,4 +7,3 @@ class Author
   end
 
 end
-    
